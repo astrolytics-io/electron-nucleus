@@ -1,3 +1,7 @@
+# ⚠️ DEPRECATED
+
+Please use the [nucleus-nodejs](https://github.com/nucleus-sh/nucleus-nodejs)to report data. It is the new better and improved module, not limited to Electron anymore.
+
 # electron-nucleus [![npm](https://img.shields.io/npm/v/electron-nucleus.svg)](https://www.npmjs.com/package/electron-nucleus)
 Analytics, licensing and bug reports for Electron using [Nucleus](https://nucleus.sh).
 
